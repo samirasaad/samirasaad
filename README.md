@@ -27,6 +27,6 @@ I’m a passionate frontend engineer with 6+ years of experience building scalab
 - Next.js TMDB App
 
 ## 📫 Contact
-- LinkedIn: [https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/samira-saad-13241b167)
-- Portfolio: [https://YOUR_PORTFOLIO_LINK](https://personal-portfolio-samira-saad.vercel.app/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/samira-saad-13241b167)
+- Portfolio: [Portfolio](https://personal-portfolio-samira-saad.vercel.app/)
 - Email: samirasaad577@gmail.com

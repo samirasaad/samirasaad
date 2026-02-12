@@ -1,9 +1,9 @@
 # Hi, I'm Samira Saad 👋  
 
-Senior Frontend Engineer | Vue.js • React • Next.js • TypeScript  
+Senior Frontend Engineer |• React • Next.js • TypeScript  
 
 I’m a passionate Senior Frontend Engineer with 4+ years of experience building scalable, high-performance web applications, complex dashboards, and real-world business systems.  
-I specialize in **Vue 3, React, and Next.js**, focusing on **clean architecture, performance optimization, and excellent user experience**.
+I specialize in **React, and Next.js**, focusing on **clean architecture, performance optimization, and excellent user experience**.
 
 ---
 

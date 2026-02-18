@@ -28,7 +28,7 @@ Tailwind CSS, Element Plus, MUI, Bootstrap
  Redux-saga, Redux-thunk, Redux Toolkit
 
 **Data & APIs:**  
-REST APIs, Axios, RTK
+REST APIs, Axios, RTK, Tanstack, React query
 
 **Charts & Calendars:**  
 ApexCharts, Mobiscroll, FullCalendar
